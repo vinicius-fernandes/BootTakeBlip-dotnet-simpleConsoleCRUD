@@ -1,0 +1,16 @@
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\Series.exe
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\Series.deps.json
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\Series.dll
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\bin\Debug\net5.0\Series.pdb
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.dll
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.pdb
+C:\Users\vinic\Documents\Dio.NET\CadastroDeSeries\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
